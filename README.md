@@ -1,2 +1,5 @@
-# mLneuralNetV2
-Version 2 Neural Network using MNIST data
+Machine Learning Neural Network 
+by Marina Neumannn 
+
+This uses the MNIST dataset for training. 
+
